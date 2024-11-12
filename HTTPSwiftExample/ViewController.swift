@@ -1,15 +1,3 @@
-//
-//  ViewController.swift
-//  HTTPSwiftExample
-//
-//  Created by Eric Larson on 3/30/15.
-//  Copyright (c) 2015 Eric Larson. All rights reserved.
-//  Updated 2024
-
-// This example is meant to be run with the python example:
-//              fastapi_turicreate.py
-//              from the course GitHub repository
-
 
 
 import UIKit

@@ -1,10 +1,3 @@
-//
-//  RingBuffer.swift
-//  HTTPSwiftExample
-//
-//  Created by Eric Larson on 10/27/17.
-//  Copyright © 2017 Eric Larson. All rights reserved.
-//
 
 import UIKit
 

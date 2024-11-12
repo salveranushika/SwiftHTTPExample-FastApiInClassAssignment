@@ -1,11 +1,3 @@
-//
-//  MlaasModel.swift
-//  HTTPSwiftExample
-//
-//  Created by Eric Cooper Larson on 6/5/24.
-//  Copyright © 2024 Eric Larson. All rights reserved.
-//
-
 
 
 

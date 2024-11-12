@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  HTTPSwiftExample
-//
-//  Created by Eric Larson on 3/30/15.
-//  Copyright (c) 2015 Eric Larson. All rights reserved.
-//
 
 import UIKit
 
